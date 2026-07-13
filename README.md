@@ -43,4 +43,4 @@ desigualdades regionais e fatores correlacionados ao sucesso escolar.
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/[SEU_USUARIO]/analise-desempenho-educacional.git
+git clone https://github.com/matheusvslima01/analise-desempenho-educacional.git
